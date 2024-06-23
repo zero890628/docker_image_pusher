@@ -1,1 +1,1 @@
-m4th1eub/Photopea-offline
+m4th1eub/photopea-offline:latest
